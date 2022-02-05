@@ -1,0 +1,60 @@
+body{
+    margin: 0;
+    text-align: center;
+    font-family: Merriweather, sans-serif;
+}
+
+h1 {
+    font-size: 90px;
+    margin-top: 0;
+    margin: 0;
+    font-family: Sacramento;
+    margin: 50px;
+    
+}
+
+h2 {
+
+    font-family: Montserrat;
+    font-size: 2.5 rem;
+
+    
+
+}
+
+h3 {
+
+    font-family: Montserrat;
+
+}
+
+
+
+.top-container {
+    background-color: #FFEDDB;
+    position: relative;
+    padding-top: 100px;
+    
+}
+
+.mid-container{
+
+}
+
+.bottom-container {
+  
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+
+}
+
+.top-cloud {
+    position: absolute;
+    right: 300px;
+    top: 50px
+  
+}
